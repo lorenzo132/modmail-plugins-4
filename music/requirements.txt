@@ -1,2 +1,3 @@
 Wavelink==0.2.9
 humanize
+aiohttp=3.6.0
